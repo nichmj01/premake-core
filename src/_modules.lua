@@ -5,8 +5,11 @@
 --
 
 	return {
+		"gmake",
+		"vstudio",
 		"xcode",
-		"monodevelop",
 		"codelite",
+		"gmake2",
 		"d",
+		"android",
 	}
